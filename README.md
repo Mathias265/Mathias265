@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Mathias+Okafor+%F0%9F%91%8B;Frontend+Developer;Vue.js+%7C+Nuxt.js+%7C+React;Building+Digital+Experiences" alt="Typing SVG" />
 
-<h3>Frontend Developer | Vue.js | Nuxt.js | React</h3>
+<h3>Software Developer | Vue.js | Nuxt.js | React</h3>
 
 <p>
 Building modern, scalable and user-friendly web applications.
